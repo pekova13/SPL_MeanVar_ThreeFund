@@ -1,0 +1,17 @@
+Name of Quantlet: SPL_MeanVariance_KanZhouThreeFund
+
+Published in: 'Portfolio Optimization in R'
+
+Description: 'The quantlet contains strategy independent functions, strategy specific functions, the computation
+              of the evaluation metrics, multiple plots.'
+
+Keywords: 'DeMiguel, Kan, Zhou, in-sample, out-of-sample, sharpe ratio, 
+           certainty equivalent‚ dynamics of weights, portfolio returns, dynamics of returns'
+
+Author: Iliyana Pekova,  Georg Velev
+
+Datafile: MV_TF.txt
+
+Output:  'Returns the in-sample sharpe ratio, out-of-sample sharpe ratio, in-sample certainty equivalent,
+          out-of-sample certainty equivalent, plot dynamics of weights, plot dynamics of a portfolio returns'
+          standard deviation, plot dynamics of a portfolio's returns, benchmark comparison.'
